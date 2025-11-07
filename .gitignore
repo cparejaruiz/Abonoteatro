@@ -5,3 +5,4 @@
 /events.json
 /venv/
 /workingdir/
+.env
